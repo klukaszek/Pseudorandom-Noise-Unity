@@ -18,15 +18,15 @@ The most efficient mesh to use to render any of these shapes is a cube. Any othe
 
 ##### Plane
 
-![plane](images/hashing/Plane.png)
+![plane](Images/Hashing/Plane.png)
 
 ##### Sphere
 
-![Sphere](images/hashing/Sphere.png)
+![Sphere](Images/Hashing/Sphere.png)
 
 ##### Torus
 
-![Torus](images/hashing/Torus.png)
+![Torus](Images/Hashing/Torus.png)
 
 ### Value Noise (Lattice Noise 1D / 2D)
 
