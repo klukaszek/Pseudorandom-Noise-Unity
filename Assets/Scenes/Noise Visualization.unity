@@ -295,21 +295,21 @@ MonoBehaviour:
     type: 3}
   resolution: 256
   displacement: 0.03
-  shape: 0
+  shape: 2
   instanceScale: 3
   seed: 0
   domain:
     translation:
-      x: 0
+      x: 53.48
       y: 0
       z: 0
     rotation:
-      x: -59.12
-      y: 89.64
-      z: 406.4
+      x: 39.1
+      y: 70
+      z: 40.21
     scale:
       x: 64
-      y: 16
+      y: 64
       z: 64
 --- !u!33 &938929959
 MeshFilter:
@@ -342,13 +342,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 913569005}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.2937066, y: 0, z: 0, w: 0.9558956}
-  m_LocalPosition: {x: 0, y: 0.39, z: -0.75}
+  m_LocalRotation: {x: 0.2840153, y: 0, z: 0, w: 0.95881975}
+  m_LocalPosition: {x: 0, y: 0.5, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 34.16, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 33, y: 0, z: 0}
 --- !u!114 &938929962
 MonoBehaviour:
   m_ObjectHideFlags: 0
