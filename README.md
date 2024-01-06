@@ -40,8 +40,8 @@ The Lattice Noise function works for the following shapes: Plane, Sphere, and To
 
 Any mesh can be used to render these shapes, but the most efficient mesh to use is a cube.
 
-![Plane](images/Lattice/Plane%202D.png)
+![Plane](Images/Lattice/Plane%202D.png)
 
-![Sphere](images/Lattice/Sphere%202D.png)
+![Sphere](Images/Lattice/Sphere%202D.png)
 
-![Torus](images/Lattice/Torus%202D.png)
+![Torus](Images/Lattice/Torus%202D.png)
